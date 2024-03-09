@@ -17,7 +17,7 @@
 
 
 #### :gift_heart: Favorite Projects
-- [NIJobs](https://ni.fe.up.pt/nijobs)
+- [NIJobs](https://github.com/orgs/NIAEFEUP/teams/nijobs/repositories)
 - [GameShare](https://github.com/FranciscoCardoso913/GameShare)
 - [Legends of Zelda Dungeons](https://github.com/FranciscoCardoso913/The_Legends_of_Zelda_Dungeons)
 - [Railway Network Management Tool](https://github.com/FranciscoCardoso913/da-project1)
