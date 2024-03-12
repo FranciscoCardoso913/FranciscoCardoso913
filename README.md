@@ -24,7 +24,7 @@
 
 
 #### :star2: Favorite languages and tools
-[![My Skills](https://skillicons.dev/icons?i=ts,mongo,react,nodejs,c,cpp,py,java,docker,sqlite,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,mongo,react,nodejs,c,cpp,py,java,docker,sqlite,flutter,haskell)](https://skillicons.dev)
 
 
 
