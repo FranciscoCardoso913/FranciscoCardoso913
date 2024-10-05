@@ -7,9 +7,10 @@
 - 📖 Studying Informatics and Computer Engineering at FEUP, Porto
 - :mortar_board: Currently on the 3rd year of my bachelor degree
 - 💻 Interested in software engineering, web development, and cybersecurity
-- 🔭 Current [NIJobs](https://ni.fe.up.pt/nijobs) Coordinator
 
-
+#### :office: Internships
+- [UPDigital](https://www.up.pt/portal/pt/updigital/) (2024 Curricular Internship)
+- [Deloitte](https://www.deloitte.com/pt/pt.html) (2024 Summer Internship)
 
 #### :office: Organizations
  - [BEST Porto](https://www.bestporto.org/index-pt.html) (2021-2023)
