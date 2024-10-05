@@ -5,7 +5,7 @@
 #### :scroll: About me 
 
 - 📖 Studying Informatics and Computer Engineering at FEUP, Porto
-- :mortar_board: Currently on the 3rd year of my bachelor degree
+- :mortar_board: Currently on the 1st year of my Masters degree
 - 💻 Interested in software engineering, web development, and cybersecurity
 
 #### :office: Internships
