@@ -4,11 +4,11 @@
 
 #### :scroll: About me 
 
-- 📖 Studying Informatics and Computer Engineering at FEUP, Porto
-- :mortar_board: Currently on the 1st year of my Masters degree
+- :mortar_board: Master's degree in Informatics and Computing Engineering at FEUP
 - 💻 Interested in software engineering, web development, and cybersecurity
 
-#### :office: Internships
+#### :office: Previous work 
+- [Inesctec](https://www.inesctec.pt/en) (2025 researcher) 
 - [UPDigital](https://www.up.pt/portal/pt/updigital/) (2024 Curricular Internship)
 - [Deloitte](https://www.deloitte.com/pt/pt.html) (2024 Summer Internship)
 
@@ -18,10 +18,10 @@
 
 
 #### :gift_heart: Favorite Projects
+- [Sense](https://github.com/FranciscoCardoso913/Sense-ShiftAppens25)
+- [WGen-2D](https://github.com/FranciscoCardoso913/WGen-2D)
 - [NIJobs](https://github.com/orgs/NIAEFEUP/teams/nijobs/repositories)
-- [GameShare](https://github.com/FranciscoCardoso913/GameShare)
 - [Legends of Zelda Dungeons](https://github.com/FranciscoCardoso913/The_Legends_of_Zelda_Dungeons)
-- [Railway Network Management Tool](https://github.com/FranciscoCardoso913/da-project1)
 
 
 #### :star2: Favorite languages and tools
